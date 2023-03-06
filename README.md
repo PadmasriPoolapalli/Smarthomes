@@ -8,3 +8,5 @@ Smart homes are houses equipped with technology that enables residents to contro
  Convenience
  
  Improved Security
+
+#Energy Efficiency
